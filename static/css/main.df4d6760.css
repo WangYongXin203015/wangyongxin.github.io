@@ -115,9 +115,9 @@ a {
 section {
   box-sizing: border-box;
   display: block;
-  margin: 10px 0;
+  margin: 10px 0 0;
   overflow-y: auto;
-  width: 100vw;
+  width: 100%;
   min-width: unset;
   /* height: calc(100% - 20px); */
   border-radius: 10px;
