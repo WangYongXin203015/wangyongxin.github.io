@@ -1,0 +1,1 @@
+(self.webpackChunkvue=self.webpackChunkvue||[]).push([[2397],{81408:function(e,u,s){"use strict";s.r(u);var c=s(8081),f=s.n(c),l=s(23645),n=s.n(l)()(f());n.push([e.id,"",""]),u.default=n},32397:function(e,u,s){var c=s(81408);c.__esModule&&(c=c.default),"string"==typeof c&&(c=[[e.id,c,""]]),c.locals&&(e.exports=c.locals);(0,s(45346).Z)("7920ffcc",c,!1,{})}}]);
